@@ -3,3 +3,4 @@ scikit-learn>=1.6,<1.7
 pandas
 numpy
 joblib>=1.6
+plotly
